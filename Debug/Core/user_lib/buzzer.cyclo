@@ -1,0 +1,6 @@
+../Core/user_lib/buzzer.c:23:6:buzzer_configuration	1
+../Core/user_lib/buzzer.c:36:6:buzzer_on	1
+../Core/user_lib/buzzer.c:47:6:buzzer_off	1
+../Core/user_lib/buzzer.c:59:6:buzzer_toggle	6
+../Core/user_lib/buzzer.c:89:6:buzzer_set	1
+../Core/user_lib/buzzer.c:94:6:buzzer_loop	1

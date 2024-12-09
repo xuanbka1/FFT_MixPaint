@@ -1,0 +1,12 @@
+1- TIMER5 -> DOOR OPEN and Close.  (700*200-1)
+   htim5.Init.Period = 72*200-1;  (line 170 time.c)
+ 
+ 
+2 - line 1069 -> change  speed open door: 	for(counter = 0; counter < 1500; counter++)
+
+timer 3 -> timer bom mau
+timer 6 -> timer tron , update no , thay cho timer 4 cũ
+
+SENSOR2-  THUNG SON   -- sensor on 3  -> INPUT2
+SENSOR3-  MO CUA      -- sensor on 2  -> INPUT3
+SENSOR4 - DONG CUA    -- sensor on 1  -> INPUT4

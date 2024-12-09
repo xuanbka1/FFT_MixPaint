@@ -1,0 +1,12 @@
+../Core/user_lib/eeprom_24c32.c:17:9:eep_write_buffer	1
+../Core/user_lib/eeprom_24c32.c:25:9:eep_read_buffer	1
+../Core/user_lib/eeprom_24c32.c:34:9:eep_write_byte	1
+../Core/user_lib/eeprom_24c32.c:43:9:eep_read_byte	1
+../Core/user_lib/eeprom_24c32.c:53:9:eep_write_word	1
+../Core/user_lib/eeprom_24c32.c:64:10:eep_read_word	1
+../Core/user_lib/eeprom_24c32.c:74:9:eepWriteFloat	3
+../Core/user_lib/eeprom_24c32.c:92:7:eepReadFloat	2
+../Core/user_lib/eeprom_24c32.c:103:9:eep_write_word_buffer_max10	2
+../Core/user_lib/eeprom_24c32.c:118:9:eep_read_word_buffer_max10	2
+../Core/user_lib/eeprom_24c32.c:132:9:eep_write_word_buffer	2
+../Core/user_lib/eeprom_24c32.c:161:9:eep_read_word_buffer	2

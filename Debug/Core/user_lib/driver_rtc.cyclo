@@ -1,0 +1,5 @@
+../Core/user_lib/driver_rtc.c:16:16:convertInt_toHex	1
+../Core/user_lib/driver_rtc.c:31:6:RTC_init	3
+../Core/user_lib/driver_rtc.c:52:6:RTC_setTime	3
+../Core/user_lib/driver_rtc.c:80:6:RTC_getTime	1
+../Core/user_lib/driver_rtc.c:95:6:RTC_alarmService	1
