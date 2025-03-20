@@ -1,8 +1,0 @@
-../Core/Utilities/ringbuffer.c:9:6:RingBuffer_Init	1
-../Core/Utilities/ringbuffer.c:19:8:RingBuffer_Pos	3
-../Core/Utilities/ringbuffer.c:41:10:RingBuffer_PushByte	2
-../Core/Utilities/ringbuffer.c:54:10:RingBuffer_PopByte	2
-../Core/Utilities/ringbuffer.c:67:10:RingBuffer_Push	8
-../Core/Utilities/ringbuffer.c:118:10:RingBuffer_Pop	8
-../Core/Utilities/ringbuffer.c:168:10:RingBuffer_get	3
-../Core/Utilities/ringbuffer.c:191:6:Ringbuffer_view	1

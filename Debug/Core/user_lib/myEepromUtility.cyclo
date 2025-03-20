@@ -1,4 +1,0 @@
-../Core/user_lib/myEepromUtility.c:5:6:eepUtil_init	3
-../Core/user_lib/myEepromUtility.c:20:5:findIndexWithName	3
-../Core/user_lib/myEepromUtility.c:26:6:eepUtil_readWithName	2
-../Core/user_lib/myEepromUtility.c:39:6:eepUtil_writeWithName	2
