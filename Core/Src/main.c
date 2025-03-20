@@ -154,6 +154,7 @@ int main(void)
 	printf("-----------------------------------------------------\r\n");
 	printf("1.Start Application 07/05/2024 by xuantn93@gmail.com \r\n");
 	printf("2.CPU_FREQ = %d Hz \r\n",  HAL_RCC_GetSysClockFreq());
+	printf("3.Update Release 20/03/2025 \r\n");
 
 	HAL_GPIO_WritePin(DIR17_GPIO_Port, DIR17_Pin, 1);
 	speaker_efect();

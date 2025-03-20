@@ -1,0 +1,4 @@
+../Core/user_lib/notifyHandler.c:25:6:notify_init	1
+../Core/user_lib/notifyHandler.c:30:6:notify_push_event	1
+../Core/user_lib/notifyHandler.c:38:9:notify_get_event	2
+../Core/user_lib/notifyHandler.c:51:6:notify_service	6
